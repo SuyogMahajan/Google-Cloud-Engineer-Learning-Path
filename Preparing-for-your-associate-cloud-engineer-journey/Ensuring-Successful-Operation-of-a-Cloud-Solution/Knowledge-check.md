@@ -5,7 +5,7 @@
 - [ ] Deployment
 - [ ] Pod
 - [ ] Service
-- [ ] Ingress
+- [x] Ingress
 
 **Explanation:** Ingress objects implement an http(s) load balancer based on upstream services you specify in your configuration file.
 
